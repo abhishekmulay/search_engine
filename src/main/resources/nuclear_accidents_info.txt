@@ -1,0 +1,24 @@
+Fukushima Daiichi nuclear disaster
+
+Earthquake, 11 March 2011, Fukushima I Nuclear Power Plant, Tokyo Electric Power Company, TEPCO,  International
+Nuclear Event Scale, INES, Level 7,
+Ōkuma, Fukushima, Japan, Nuclear, reactor,  zirconium, radiation-induced cancer, cancer, Zircaloy, BWR, Tsunami,
+evacuation, core meltdown, contamination, death, fission reaction, control rods, SCRAM, decay heat, radiation, flood,
+fatalities,
+
+
+
+
+//            model = new HW3Model(curl, rawHtml, content, headersMap, crawlableUrlOutlinks);
+//            jsonGenerator.writeObject(model);
+//
+//            jsonGenerator.writeStartObject( );
+//            jsonGenerator.writeStringField("docno", curl.getCanonicalizedUrl());
+//            jsonGenerator.writeStringField("url", curl.getOriginalUrl().toString());
+//            jsonGenerator.writeStringField("title", title);
+//            jsonGenerator.writeStringField("text", content);
+//            jsonGenerator.writeStringField("author", "Abhishek");
+//            jsonGenerator.writeNumberField("depth", nextDepth-1);
+//            jsonGenerator.writeBinaryField("html_Source", compress(rawHtml));
+//            jsonGenerator.writeEndObject();
+//            jsonGenerator.close();

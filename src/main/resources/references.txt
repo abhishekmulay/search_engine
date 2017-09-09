@@ -1,0 +1,9 @@
+https://facingissuesonit.com/2017/05/10/elasticsearch-rest-java-client-to-get-index-details-list/
+
+https://www.elastic.co/guide/en/elasticsearch/client/java-rest/current/java-rest.html
+
+http://stackoverflow.com/questions/43339120/elasticsearch-bulk-insert-using-rest-client
+https://stackoverflow.com/questions/109383/sort-a-mapkey-value-by-values-java?page=1&tab=votes#tab-top
+
+
+Total number of unique words without removing stop words = 1,16,891
